@@ -2,7 +2,7 @@
 
 # I ❤️ implementing my own and other design ideas into a webpage/app.
 # I'm currently working on:
-- my own Portfolio ➡️ github.com/loveeyk/PortfolioLk
+- my own Portfolio ➡️ <a href"github.com/loveeyk/PortfolioLk">Portfolio</a>
 - My CSS skills
 - My programming skills in javascript/typescript
 - Vuejs skills
