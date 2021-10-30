@@ -12,7 +12,11 @@
 - CSS Frameworks: Bootstrap, Tailwind
 - Java-/Typescript
 - Frameworks: Angularjs 12, Vuejs 2 & 3
-# Fun fact / Hobbies: I ❤️ reading 📚 and do fitness. 
+# Fun fact / Hobbies: 
+- I ❤️ reading 📚 
+- do fitness
+- travel 🌎
+- eat different cuisines 🥘
 
 
 
