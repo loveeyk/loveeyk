@@ -18,6 +18,10 @@
 - travel 🌎
 - eat different cuisines 🥘
 
+# Connect with me:
+- [<a href="https://www.linkedin.com/in/loveleen-karir/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
+
+
 
 
 
