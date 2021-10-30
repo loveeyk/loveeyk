@@ -1,11 +1,13 @@
 ![Hi there, I'm Loveleen](https://user-images.githubusercontent.com/62951494/139541557-d5772621-3878-4e58-a8cc-d304f6dbc2de.gif)
 
-# I ❤️ implementing my own and other design ideas into a webpage/app.
+>> # ❤️ to turn ideas into code
+
 # I'm currently working on:
-- my own Portfolio ➡️ github.com/loveeyk/PortfolioLk
+- ➡️ [My Portfolio](https://www.github.com/Loveeyk) 
 - My CSS skills
 - My programming skills in javascript/typescript
 - Vuejs skills
+
 # My programming skills:
 - Html5
 - CSS3 & SCSS
