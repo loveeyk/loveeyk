@@ -3,7 +3,7 @@
 >> # ❤️ to turn ideas into code
 
 # I'm currently working on:
-- ➡️ [My Portfolio](https://www.github.com/Loveeyk) 
+- ➡️  [My Portfolio](https://www.github.com/Loveeyk) 
 - My CSS skills
 - My programming skills in javascript/typescript
 - Vuejs skills
@@ -15,14 +15,14 @@
 - Java-/Typescript
 - Frameworks: Angularjs 12, Vuejs 2 & 3
 # Fun fact / Hobbies: 
-- I ❤️ reading 📚 
+- I ❤️  reading 📚 
 - do fitness
 - travel 🌎
 - eat different cuisines 🥘
 
 # Connect with me:
-- <a href="https://www.linkedin.com/in/loveleen-karir/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-- <a href="https://www.instagram.com/love.leen_k/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+- <a href="https://www.linkedin.com/in/loveleen-karir/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- <a href="https://www.instagram.com/love.leen_k/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
 
