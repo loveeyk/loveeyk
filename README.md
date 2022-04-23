@@ -13,7 +13,7 @@
 - CSS3 & SCSS
 - CSS Frameworks: Bootstrap, Tailwind
 - Java-/Typescript
-- Frameworks: Angularjs 12, Vuejs 2 & 3
+- Frameworks: Angular 12, Vuejs 2 & 3
 # Fun fact / Hobbies: 
 - I ❤️  reading 📚 
 - do fitness
