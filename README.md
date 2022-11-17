@@ -21,6 +21,9 @@
 - eat different cuisines 🥘
 
 # Connect with me:
+
+<img width="75px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F916-9162764_download-icon-linkedin-svg-eps-png-psd-ai.png&f=1&nofb=1&ipt=bbbda08d1cc3e9a07c9b3034a46cb6618def679d1d0479825d0c9bc408c422c2&ipo=images" alt="Linkedin Icon" />
+
 - <a href="https://www.linkedin.com/in/loveleen-karir/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 - <a href="https://www.instagram.com/love.leen_k/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
