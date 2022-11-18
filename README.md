@@ -21,12 +21,9 @@
 - eat different cuisines 🥘
 
 # Connect with me:
-- <a href="https://www.linkedin.com/in/loveleen-karir/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-- <a href="https://www.instagram.com/love.leen_k/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-
-
-
+<a href="https://www.linkedin.at/loveleen-karir"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png" alt="Linkedin Icon" /></a>
+<a href="https://www.instagram.com/loveeyk_"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram Icon" /></a>
 
 <!--
 **loveeyk/loveeyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
