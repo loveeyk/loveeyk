@@ -4,16 +4,14 @@
 
 # I'm currently working on:
 - ➡️  [My Portfolio](https://www.github.com/Loveeyk) 
-- My CSS skills
-- My programming skills in javascript/typescript
-- Vuejs skills
+
 
 # My programming skills:
 - Html5
 - CSS3 & SCSS
 - CSS Frameworks: Bootstrap, Tailwind
 - Java-/Typescript
-- Frameworks: Angular 12, Vuejs 2 & 3
+- Frameworks: Angular 12, Vuejs 2 & 3, Nextjs/React
 # Fun fact / Hobbies: 
 - I ❤️  reading 📚 
 - do fitness
